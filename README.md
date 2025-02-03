@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazkhan99&label=Profile%20views&color=0e75b6&style=flat" alt="mazkhan99" /> </p>
 
-- 🌱 I’m currently learning **DSA ,Cpp ,Python ,Java**
+- 🌱 I’m currently learning **DSA ,Cpp ,Python ,Java**.
 
 - 💬 Ask me about **Python, Cpp, Java, Dsa**
 
